@@ -62,8 +62,8 @@ h1 {
 .mobile-nav {
   position: fixed;
   top: 0;
-  left: 100%;
-  width: 100%;
+  right: 100%;
+  width: 60%;
   min-height: 100vh;
   display: block;
   background-color: var(--dark-bg-color);
@@ -73,14 +73,14 @@ h1 {
 }
 
 .mobile-nav.is-active {
-  left: 0;
+  right: 0;
 }
 
 .mobile-nav a {
   display: block;
   width: 100%;
   max-width: 200px;
-  margin: 0 auto 16px;
+  margin: 1em  auto 2em;
   text-align: center;
   padding: 12px 16px;
   background-color: var(--bg-color);
@@ -207,7 +207,7 @@ body {
 
 footer {
   background-color: var(--bg-color);
-  text-align: end;
+  text-align: start;
 }
 footer ul {
   height: 100%;
@@ -286,7 +286,7 @@ footer ul li {
 }
 .social-header2 {
   display: flex;
-  justify-content: end;
+  justify-content: start;
   margin-right: 8em;
 }
 .social-header2 ul {
