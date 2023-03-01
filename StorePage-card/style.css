@@ -10,7 +10,7 @@
 
 .card-one {
   color: white;
-  background-image: url(/Images/boy-3566903_1280.jpg);
+  background-image: url(../Images/boy-3566903_1280.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -22,7 +22,7 @@
 
 .card-two {
   color: white;
-  background-image: url(/Images/girl-286818_1280.jpg);
+  background-image: url(../Images/girl-286818_1280.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -34,7 +34,7 @@
 
 .card-three {
   color: white;
-  background-image: url(/Images/no-money-2070384_1280.jpg);
+  background-image: url(../Images/no-money-2070384_1280.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -46,7 +46,7 @@
 
 .card-four {
   color: white;
-  background-image: url(/Images/white-926838_1280.jpg);
+  background-image: url(../Images/white-926838_1280.jpg);
   background-size: cover;
   padding: 10rem 0 0;
   font-weight: bold;
@@ -58,7 +58,7 @@
 
 .card-five {
   color: white;
-  background-image: url(/Images/t-shirt-1278404_1280.jpg);
+  background-image: url(../Images/t-shirt-1278404_1280.jpg);
   background-size: cover;
   padding: 10rem 0 0;
   font-weight: bold;
@@ -70,7 +70,7 @@
 
 .card-six {
   color: white;
-  background-image: url(/Images/business-2049312_1280.jpg);
+  background-image: url(../Images/business-2049312_1280.jpg);
   background-size: cover;
   padding: 10rem 0 0;
   font-weight: bold;
@@ -82,7 +82,7 @@
 
 .card-seven {
   color: white;
-  background-image: url(/Images/blue-jeans-2160265_1280.jpg);
+  background-image: url(../Images/blue-jeans-2160265_1280.jpg);
   background-size: cover;
   padding: 10rem 0 0;
   font-weight: bold;
@@ -94,7 +94,7 @@
 
 .card-eight {
   color: white;
-  background-image: url(/Images/baby-shoes-505471_1280.jpg);
+  background-image: url(../Images/baby-shoes-505471_1280.jpg);
   background-size: cover;
   padding: 10rem 0 0;
   font-weight: bold;
