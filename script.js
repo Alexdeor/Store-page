@@ -5,12 +5,17 @@ let sun = document.querySelector('.moon');
 toggle.addEventListener('click', () => {
     document.body.classList.toggle('body-dark');
     nav.classList.toggle('nav-bar-dark');
+
 	toggle.classList.toggle('toggle-day');	
-	if(sun.src.match('Images/icon-moon.svg')){
-		sun.src = 'Images/icon-sun.svg';
+	if(sun.src.match('./images/icon-moon.svg')){
+		sun.src = './images/icon-sun.svg';
 		sun.classList.add('sun')
+		toggle.classList.remove('toggle');
+
 	 } else{
-		sun.src= 'Images/icon-moon.svg'
+		toggle.classList.add('toggle');
+
+		sun.src= './images/icon-moon.svg'
 	 }
 	});
 
