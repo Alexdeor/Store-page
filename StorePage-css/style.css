@@ -149,7 +149,7 @@ body {
   position: relative;
   background-image: url(../Images/man-2425121_1280.jpg);
   height: 300px;
-  width: 100vw;
+  width: 100%;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
